@@ -1,6 +1,4 @@
-# Constructor application
-
-My learning application in which I created a constructor of sites.
+# Constructor of sites application
 
 Used technologies and tools: Bootstrap 4, Vanilla JS, WebStorm, Parcel, Firebase (for hosting).
 
