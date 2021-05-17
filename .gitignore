@@ -65,10 +65,10 @@ node_modules/
 # dotenv environment variables file
 .env
 
-/.cache
-/.firebase
-/node_modules
+.cache
+.firebase
+node_modules
 .firebaserc
 firebase.json
-package-lock.json
-/.idea
+.idea
+dist
